@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-22T16:56:39.620Z'
+datePublished: '2016-07-22T16:59:30.558Z'
 sourcePath: >-
   _posts/2016-04-16-where-to-eat-pizza-phaidon-presents-the-ultimate-pizza-buck.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/phaidon-publishes-the-ultimate-pizza-bucket-list-where-to-eat-pizza
-hasPage: false
+hasPage: true
 keywords:
   - pizza
   - phaidon
@@ -19,7 +17,7 @@ keywords:
   - stone-baked
 related: []
 author: []
-dateModified: '2016-07-22T16:56:36.254Z'
+dateModified: '2016-07-22T16:59:29.638Z'
 title: >-
   Where to Eat Pizza: Phaidon presents the ultimate pizza bucket list |
   Lifestyle | Wallpaper* Magazine
@@ -38,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: where-to-eat-pizza-phaidon-presents-the-ultimate-pizza-buck/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
