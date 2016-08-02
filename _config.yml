@@ -11,6 +11,10 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.3368303014431149
+author:
+  name: Rogier van der Heide
+  email: rogier@rogiervanderheide.com
+  url: www.rogiervanderheide.com
 name: Rogier van der Heide
 navigation:
   - name: >-
