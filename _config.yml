@@ -1,4 +1,3 @@
-layout_spectrum: 0.3368303014431149
 typography_spectrum: 0.9429791201837361
 color:
   brandStrength: 0.9842952452600002
@@ -11,12 +10,12 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.3368303014431149
 name: Rogier van der Heide
 navigation:
-  - id: 9e1ac5e4-57ea-4c3e-a0d2-66ec26f5cb28
-    url: >-
-      2016-04-16-where-to-eat-pizza-phaidon-presents-the-ultimate-pizza-buck.html
-    name: >-
+  - name: >-
       Where to Eat Pizza: Phaidon presents the ultimate pizza bucket list |
       Lifestyle | Wallpaper* Magazine
+    id: 9e1ac5e4-57ea-4c3e-a0d2-66ec26f5cb28
     type: content
+description: The world's best lighting designer from Liechtenstein
